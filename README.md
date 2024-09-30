@@ -1,5 +1,7 @@
 # Caesar Cipher
 
+![caesar_wheel.jpg](caesar_wheel.jpg)
+
 This project implements a simple Caesar Cipher in Rust. It can encode and decode words using a specified Caesar code.
 
 ## Usage
